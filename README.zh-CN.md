@@ -1,5 +1,7 @@
 # 📓 LESSONS.md（错题本）
 
+[English](README.md) · 简体中文
+
 > 中文说明。英文版见 [README.md](README.md)。
 
 **别给 AI 更大的记忆，给它一个更小的——只记错误的。**

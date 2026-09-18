@@ -1,5 +1,7 @@
 # 📓 LESSONS.md
 
+English · [简体中文](README.zh-CN.md)
+
 **The mistake notebook for AI coding agents. Don't give your agent a bigger memory. Give it a smaller one — one that only remembers the mistakes.**
 
 AI coding agents (Claude Code, ZCode, Codex, Cursor, ...) are amnesiacs: every new session, they repeat the same mistakes in your project — spawning a second instance of a running app and deadlocking it, editing a config file that must never be touched, rebuilding what already exists. You correct them, they apologize, and next session they do it again.
