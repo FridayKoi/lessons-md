@@ -12,6 +12,7 @@ AI coding agents (Claude Code, ZCode, Codex, Cursor, ...) are amnesiacs: every n
 - 🔁 **Recurrence tracking** — if the same mistake happens again, the entry's counter goes up. It doesn't just remember; it knows *how often you've been burned*.
 - 🔴 **Automatic escalation** — a mistake that recurs 3+ times stops being a suggestion and becomes a hard ban.
 - 🧰 **Tool-agnostic** — the notebook is plain markdown referenced from `AGENTS.md` / `CLAUDE.md`, so it works with any agent that reads them. Skills are provided for Claude Code / ZCode; everything else works by pasting a prompt.
+- 🖥️ **DeepSeek Harness plugin** — the [dsh-lessons-md](https://github.com/FridayKoi/dsh-lessons-md) plugin adds a live Web UI panel to DeepSeek Harness: visualize, search and edit your notebook, plus agent tools so the AI maintains it itself.
 
 ## Why not just use CLAUDE.md / a memory plugin?
 

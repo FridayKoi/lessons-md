@@ -14,6 +14,7 @@ AI 编程助手（Claude Code、ZCode、Codex、Cursor……）都是金鱼：�
 - 🔁 **复发计数** —— 同一个错再犯，计数 +1。它不但记得，还知道你被坑过几次。
 - 🔴 **自动升级** —— 犯满 3 次，从"建议"升级为"禁令"。
 - 🧰 **跨工具** —— 错题本就是普通 markdown，通过 `AGENTS.md` / `CLAUDE.md` 引用，任何读这两个文件的 AI 工具都能用。Claude Code / ZCode 有现成 skill，其他工具贴 prompt 即可。
+- 🖥️ **DeepSeek Harness 可视化插件** —— [dsh-lessons-md](https://github.com/FridayKoi/dsh-lessons-md)：在 DSH 的 Web UI 里加一块实时错题本面板，可视化浏览/搜索/编辑，还带 Agent 工具让 AI 自己记账。
 
 ## 快速开始
 
